@@ -1,0 +1,40 @@
+.top {
+  padding-top: 250px;
+  display: flex;
+  justify-content: center;
+}
+.login {
+  border: 1px solid rgb(214, 211, 211);
+  border-radius: 30px;
+  padding: 30px;
+  background: rgb(214, 211, 211);
+  width: 320px;
+}
+.login h2 {
+  text-align: center;
+}
+.login button {
+  background: black;
+  color: white;
+  width: 102%;
+}
+.login input {
+  width: 100%;
+}
+.welcome {
+  border: 1px solid rgb(214, 211, 211);
+  border-radius: 30px;
+  padding: 30px;
+  background: rgb(214, 211, 211);
+  width: 320px;
+  text-align: center;
+}
+#log {
+  color: white;
+}
+.welcome button {
+  color: white;
+  background: black;
+  width: 100px;
+  height: 20px;
+}
